@@ -4,9 +4,9 @@
 This is the implementation of "3D Bounding Box Estimation Using Deep Learning and Geometry" on Blender
 
 ## Dependency
-* [Darknet (for training YOLO)] (https://github.com/pjreddie/darknet) 
-* [Tensorflow (for training SSD)] (https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) 
-* [Pytorch (for training orientation angle)] (https://pytorch.org/)
+* [Darknet (for training YOLO)](https://github.com/pjreddie/darknet) 
+* [Tensorflow (for training SSD)](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) 
+* [Pytorch (for training orientation angle)](https://pytorch.org/)
 * [Numpy](http://www.numpy.org/)
 * [Blender (2.79)](https://www.blender.org/)
 
