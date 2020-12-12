@@ -19,7 +19,7 @@ This project comprises 2 main module
     SSD:  or use the pretrained model in ssd_coca folder.
 
 + ## Orientation:
-    Use pytorch_3DBB_orientation.ipynb for training.
+    Use pytorch_3DBB_orientation.ipynb for training the orientation angle.
     
 + ## 2D-3D conversion:
     Please check the function calculate_loc in Blender for more detail.
