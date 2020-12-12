@@ -4,16 +4,23 @@
 This is the implementation of "3D Bounding Box Estimation Using Deep Learning and Geometry" on Blender
 
 ## Dependency
+* [Darknet (for training YOLO)] (https://github.com/pjreddie/darknet) 
+* [Tensorflow (for training SSD)] (https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) 
+* [Pytorch (for training orientation angle)] (https://pytorch.org/)
 * [Numpy](http://www.numpy.org/)
 * [Blender (2.79)](https://www.blender.org/)
+
 
 ## Usage
 This project comprises 2 main module
 + ## 2D object detection:
     YOLO: Please follow the instruction from this link: https://timebutt.github.io/static/how-to-train-yolov2-to-detect-custom-objects/ or use the pretrained model in yolo_coca_minimal_files.
     
-    SSD: https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/ or use the pretrained model in ssd_coca folder.
+    SSD:  or use the pretrained model in ssd_coca folder.
 
++ ## Orientation:
+    Use pytorch_3DBB_orientation.ipynb for training.
+    
 + ## 2D-3D conversion:
     Please check the function calculate_loc in Blender for more detail.
     
