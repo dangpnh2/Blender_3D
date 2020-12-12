@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ball</folder>
+	<filename>ball_89.jpg</filename>
+	<path>E:\source_code\blender\training_image\train_image_tool\Images\ball_coca\train_small\ball\ball_89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>16</ymin>
+			<xmax>337</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+classes= 1  
+train  = data/skydisc/train.txt  
+valid  = data/skydisc/test.txt  
+names = /home/dangpnh/source_code/IMP/YOLO_v3/darknet/cfg/skydisc.names  
+backup = backup/ 
