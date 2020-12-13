@@ -21,7 +21,7 @@ This project comprises 3 main components:
     Use pytorch_3DBB_orientation.ipynb for training the orientation angle.
     
 + ## 2D-3D conversion:
-    Please check the function calculate_loc in Blender for more detail.
+    Please check the function calculate_loc in Blender for more detail (Open Blender and load coca_cola.blend and navigate to text file).
     
 ## Run detection in Blender:
 +    Open Blender and load project (file .blend) and press the Run Script button to run the provided example.
