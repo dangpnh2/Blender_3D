@@ -32,3 +32,6 @@ This project comprises 3 main components:
     Check the location of 2D image at save_2d_image function and feed this as input for 2D object detection module.
     
     Replace coordinate of 2D detection at line 530 and orientation angle at line 532.
+
+## Demo:
+![Alt Text](demo_blender3d-ezgif.com-video-to-gif-converter.gif)
